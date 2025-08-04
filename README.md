@@ -17,7 +17,7 @@ As a junior DevOps engineer (and a lifelong learner), I needed a centralized pla
 
 ## How to Use This Repo
 
-- Browse the flles
+- Browse the files
 - Copy, test, and tweak the scripts or commands
 - Use them as templates in your projects
 
@@ -34,8 +34,8 @@ This is my knowledge base, but feel free to fork it or suggest improvements via 
 
 Want to connect or share feedback?
 
-- GitHub: [your_username](https://github.com/mayamnaizel)
-- LinkedIn: [Your Name](https://linkedin.com/in/maya-mnaizel)
+- GitHub: [My GitHub](https://github.com/mayamnaizel)
+- LinkedIn: [My Profile](https://linkedin.com/in/maya-mnaizel)
 
 ---
 
